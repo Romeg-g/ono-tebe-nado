@@ -96,13 +96,11 @@
 
 .aligned-text_center {
     text-align: center;
-    line-height: normal;
     line-height: 139%;
 }
 
 .aligned-text_right {
     text-align: right;
-    line-height: normal;
     line-height: 103%;
 }
 
@@ -137,7 +135,7 @@
 }
 
 .bet-button {
-    font-family: raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: white;
     background-color: transparent;
     min-width: 256px;
@@ -286,7 +284,6 @@
     font-style: normal;
     font-size: 18px;
     line-height: 140%;
-    font-style: normal;
 }
 
 .footer__menu {
